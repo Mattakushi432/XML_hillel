@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><title>SciPost: Latest Publications in Artificial Intelligence</title><link href="https://scipost.org/journals/" rel="alternate"/><link href="https://scipost.org/atom/publications/comp-ai" rel="self"/><id>https://scipost.org/journals/</id><updated>2025-05-28T00:00:00+02:00</updated><author><name>SciPost</name></author><subtitle>SciPost: most recent publications in Artificial Intelligence</subtitle><entry><title>Bayesian illumination: Inference and quality-diversity accelerate generative molecular models, by Jonas Verhellen
+</title><link href="https://scipost.org/SciPostChem.4.1.001" rel="alternate"/><updated>2025-05-28T00:00:00+02:00</updated><id>https://scipost.org/SciPostChem.4.1.001</id><summary type="html">SciPost Chem. 4, 001 (2025)
+</summary></entry><entry><title>Conditional generative models for sampling and phase transition indication in spin systems, by Japneet Singh, Mathias S. Scheurer, Vipul Arora
+</title><link href="https://scipost.org/SciPostPhys.11.2.043" rel="alternate"/><updated>2021-08-30T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.11.2.043</id><summary type="html">SciPost Phys. 11, 043 (2021)
+</summary></entry><entry><title>Symmetry meets AI, by Gabriela Barenboim, Johannes Hirn, Veronica Sanz
+</title><link href="https://scipost.org/SciPostPhys.11.1.014" rel="alternate"/><updated>2021-07-15T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.11.1.014</id><summary type="html">SciPost Phys. 11, 014 (2021)
+</summary></entry><entry><title>Machine learning and quantum devices, by Florian Marquardt
+</title><link href="https://scipost.org/SciPostPhysLectNotes.29" rel="alternate"/><updated>2021-05-31T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhysLectNotes.29</id><summary type="html">SciPost Phys. Lect. Notes 29 (2021)
+</summary></entry><entry><title>Supervised learning of few dirty bosons with variable particle number, by Pere Mujal, Àlex Martínez Miguel, Artur Polls, Bruno Juliá-Díaz, Sebastiano Pilati
+</title><link href="https://scipost.org/SciPostPhys.10.3.073" rel="alternate"/><updated>2021-03-24T00:00:00+01:00</updated><id>https://scipost.org/SciPostPhys.10.3.073</id><summary type="html">SciPost Phys. 10, 073 (2021)
+</summary></entry><entry><title>Improved neural network Monte Carlo simulation, by I-Kai Chen, Matthew D. Klimek, Maxim Perelstein
+</title><link href="https://scipost.org/SciPostPhys.10.1.023" rel="alternate"/><updated>2021-01-29T00:00:00+01:00</updated><id>https://scipost.org/SciPostPhys.10.1.023</id><summary type="html">SciPost Phys. 10, 023 (2021)
+</summary></entry><entry><title>Neural network-based approach to phase space integration, by Matthew D. Klimek, Maxim Perelstein
+</title><link href="https://scipost.org/SciPostPhys.9.4.053" rel="alternate"/><updated>2020-10-19T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.9.4.053</id><summary type="html">SciPost Phys. 9, 053 (2020)
+</summary></entry><entry><title>Detecting nematic order in STM/STS data with artificial intelligence, by Jeremy B. Goetz, Yi Zhang, Michael J. Lawler
+</title><link href="https://scipost.org/SciPostPhys.8.6.087" rel="alternate"/><updated>2020-06-15T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhys.8.6.087</id><summary type="html">SciPost Phys. 8, 087 (2020)
+</summary></entry><entry><title>From complex to simple : hierarchical free-energy landscape renormalized in deep neural networks, by Hajime Yoshino
+</title><link href="https://scipost.org/SciPostPhysCore.2.2.005" rel="alternate"/><updated>2020-04-15T00:00:00+02:00</updated><id>https://scipost.org/SciPostPhysCore.2.2.005</id><summary type="html">SciPost Phys. Core 2, 005 (2020)
+</summary></entry><entry><title>Deep-learning jets with uncertainties and more, by Sven Bollweg, Manuel Haussmann, Gregor Kasieczka, Michel Luchmann, Tilman Plehn, Jennifer Thompson
+</title><link href="https://scipost.org/SciPostPhys.8.1.006" rel="alternate"/><updated>2020-01-16T00:00:00+01:00</updated><id>https://scipost.org/SciPostPhys.8.1.006</id><summary type="html">SciPost Phys. 8, 006 (2020)
+</summary></entry></feed>
